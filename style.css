@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(yellow, lightgreen);
+}
+#img1 {
+    width: 200px;
+    border: solid 3px green;
+    border-radius: 20px;
+    padding: 5px;
+}
+#para {
+    font-size: 18px;
+    font-weight: bold;
+}
+#button1 {
+    background-color: lawngreen;
+    border-color: lime;
+    width: 70px;
+    height: 35px;
+    font-size: 19px;
+}
